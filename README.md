@@ -1,9 +1,7 @@
 🚀 Ankit Mohan Mensi — Product Manager
 
-📍 United States (F-1 OPT)
-📧 ankitmohanmensi@gmail.com
- | 📞 +1 945-274-7784
-🔗 LinkedIn | 🔗 GitHub Portfolio
+📄 Resume: [View Resume (PDF)](./Ankit_Mohan_Mensi_Resume.pdf)  
+📬 Email: ankitmohanmensi@gmail.com  
 
 👋 About Me
 
@@ -21,6 +19,13 @@ Product Manager with 4+ years of experience in live-service consumer mobile game
 
 🚀 8–12% feature adoption within 30 days
 
+🧩 Product Case Studies
+
+- Gold Pass Subscription → [View Case Study](./gold-pass.md)
+- Live Events to Reduce Seasonal Churn → [View Case Study](./live-events.md)
+- Emlove — 0→1 MVP → [View Case Study](./emlove.md)
+- PM × QA Advantage → [View Case Study](./pm-qa-advantage.md)
+
 🧠 Core Skills
 
 Product Management & Delivery
@@ -35,12 +40,6 @@ A/B Testing · Funnels & Cohorts · Guardrail Metrics · SQL · Dashboards · Ex
 Tools
 JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Workspace
 
-🧩 Product Case Studies
-
-- Gold Pass Subscription → [View Case Study](./gold-pass.md)
-- Live Events to Reduce Seasonal Churn → [View Case Study](./live-events.md)
-- Emlove — 0→1 MVP → [View Case Study](./emlove.md)
-- PM × QA Advantage → [View Case Study](./pm-qa-advantage.md)
 
 🎓 Certifications
 📘 Product & Agile
