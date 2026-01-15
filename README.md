@@ -36,26 +36,10 @@ Tools
 JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Workspace
 
 🧩 Product Case Studies
-⭐ Gold Pass Subscription (Flagship)
+### ⭐ Gold Pass Subscription (Flagship)
+Subscription feature designed to improve retention and monetization in a live-service mobile game.
 
-Context: Live-service mobile game with strong engagement but inconsistent mid-term retention
-My Role: Associate Product Manager
-
-Defined subscription value proposition, scope, and success metrics
-
-Partnered with design and engineering to ship MVP and iterate post-launch
-
-Used engagement analysis and experimentation to optimize reward pacing
-
-Impact:
-
-📈 +10% 30-day retention
-
-💰 +9–11% ARPU
-
-🚀 8–12% adoption within first 30 days
-
-👉 Detailed case study coming soon
+👉 [View Full Case Study](./gold-pass.md)
 
 ⭐ Live Events to Reduce Seasonal Churn
 
