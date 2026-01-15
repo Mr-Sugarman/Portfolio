@@ -49,6 +49,7 @@ JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Works
 ---
 
 🎓 Certifications
+
 📘 **Product & Agile**
 
 [Agile Project Management Certificate](./Agile%20project%20Management%20certificate.pdf)
