@@ -68,15 +68,13 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 - [Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
 - [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
-### 📚 Additional Certifications (To Be Added)
-- [Certification Title](./file-name.pdf)
-- [Certification Title](./file-name.pdf)
-
 ---
 
 ## 🧠 Skills
-**Product:** Roadmapping · PRDs · Backlog Prioritization · Agile/Scrum · Stakeholder Alignment  
-**Analytics:** A/B Testing · Funnels/Cohorts · Guardrail Metrics · SQL · Dashboards  
+**Product:** Roadmapping · PRDs · Backlog Prioritization · Agile/Scrum · Stakeholder Alignment · Sprint Planning ·
+Agile Scrum · Product Requirements · Feature Lifecycle Management
+**Analytics:** A/B Testing · Funnels/Cohorts · Guardrail Metrics · SQL · Dashboards · TAM/SAM/SOM · KPI Tracking · Industry Analysis ·
+Market Awareness
 **Tools:** JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman
 
 ---
