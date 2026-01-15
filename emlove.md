@@ -1,3 +1,7 @@
+---
+layout: default
+title: Emlove — 0→1 E-Commerce MVP
+---
 # Emlove — 0→1 E-Commerce MVP Case Study
 
 ## Overview
