@@ -65,24 +65,6 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
     <tr><td><b>Feature adoption (30 days)</b></td><td style="text-align:right;">8–12%</td></tr>
   </table>
 </div>
-<div class="card">
-  <strong>Impact Visual</strong><br/><br/>
-
-  <div><b>Retention +10%</b></div>
-  <div style="background:#eee;border-radius:10px;overflow:hidden;">
-    <div style="width:70%;padding:6px 10px;">&nbsp;</div>
-  </div>
-
-  <div style="margin-top:10px;"><b>ARPU +9–11%</b></div>
-  <div style="background:#eee;border-radius:10px;overflow:hidden;">
-    <div style="width:65%;padding:6px 10px;">&nbsp;</div>
-  </div>
-
-  <div style="margin-top:10px;"><b>DAU Drop -50%</b></div>
-  <div style="background:#eee;border-radius:10px;overflow:hidden;">
-    <div style="width:85%;padding:6px 10px;">&nbsp;</div>
-  </div>
-</div>
 
 ---
 
