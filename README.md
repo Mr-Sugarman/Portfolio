@@ -73,8 +73,10 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 ## 🧠 Skills
 **Product:** Roadmapping · PRDs · Backlog Prioritization · Agile/Scrum · Stakeholder Alignment · Sprint Planning ·
 Agile Scrum · Product Requirements · Feature Lifecycle Management
+
 **Analytics:** A/B Testing · Funnels/Cohorts · Guardrail Metrics · SQL · Dashboards · TAM/SAM/SOM · KPI Tracking · Industry Analysis ·
 Market Awareness
+
 **Tools:** JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman
 
 ---
