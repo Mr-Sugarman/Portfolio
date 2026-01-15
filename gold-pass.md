@@ -1,3 +1,7 @@
+---
+layout: default
+title: Gold Pass Subscription
+---
 # Gold Pass Subscription — Product Case Study
 
 ## Overview
