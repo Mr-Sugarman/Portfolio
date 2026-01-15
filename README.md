@@ -92,7 +92,7 @@ Defined MVP scope, prioritized features, and shipped under zero-budget constrain
 🎓 Certifications
 📘 Product & Agile
 
-Agile Project Management Certificate
+[Agile Project Management Certificate](./Agile%20project%20Management%20certificate.pdf)
 
 🤖 Generative AI & Technology
 
