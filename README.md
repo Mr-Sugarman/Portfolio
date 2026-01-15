@@ -56,6 +56,16 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 - **Monetization:** +9–11% ARPU improvement  
 - **Engagement:** 8–12% feature adoption in 30 days  
 - **Churn Mitigation:** 50% reduction in expected DAU drop during seasonal windows  
+<div class="card">
+  <strong>Business Impact</strong><br/><br/>
+  <table>
+    <tr><td><b>30-day retention</b></td><td style="text-align:right;">+10%</td></tr>
+    <tr><td><b>ARPU</b></td><td style="text-align:right;">+9–11%</td></tr>
+    <tr><td><b>Seasonal DAU drop</b></td><td style="text-align:right;">-50%</td></tr>
+    <tr><td><b>Feature adoption (30 days)</b></td><td style="text-align:right;">8–12%</td></tr>
+  </table>
+</div>
+
 
 ---
 
