@@ -1,65 +1,83 @@
-🚀 Ankit Mohan Mensi — Product Manager
+# Ankit Mohan Mensi — Product Manager
 
-📄 Resume: [View Resume (PDF)](./Ankit_Mohan_Mensi_Resume.pdf)  
-📬 Email: ankitmohanmensi@gmail.com  
+<div class="badges">
+  <span class="badge">10M+ users</span>
+  <span class="badge">+10% 30-day retention</span>
+  <span class="badge">+9–11% ARPU</span>
+  <span class="badge">-50% seasonal DAU drop</span>
+</div>
 
-👋 About Me
+Product Manager with 4+ years in **live-service consumer mobile games**, owning **monetization, retention, and live-ops features** at scale. I ship with strong analytics and experimentation (A/B testing, funnels/cohorts, KPI dashboards). :contentReference[oaicite:0]{index=0}
 
-Product Manager with 4+ years of experience in live-service consumer mobile games, owning monetization, retention, and live-ops features for products used by 10M+ users. I have led subscription launches, seasonal engagement events, and KPI-driven optimizations, using A/B testing, funnel analysis, and player behavior insights to deliver measurable business impact.
+<a class="btn" href="./gold-pass.md">Start here: Gold Pass Case Study</a>
+<a class="btn" href="./live-events.md">Live Events Case Study</a>
+<a class="btn" href="./emlove.md">Emlove (0→1) Case Study</a>
+<a class="btn" href="./pm-qa-advantage.md">PM × QA Advantage</a>
 
----
-
-📊 Impact Snapshot
-
-📱 Products serving 10M+ MAU
-
-💰 +9–11% ARPU via subscription monetization
-
-🔁 +10% 30-day retention
-
-📉 50% reduction in seasonal DAU drop
-
-🚀 8–12% feature adoption within 30 days
+<a class="btn" href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a class="btn" href="mailto:ankitmohanmensi@gmail.com">Email</a>
+<a class="btn" href="./Ankit_Mohan_Mensi_Resume.pdf">Resume (PDF)</a>
 
 ---
 
-🧩 Product Case Studies
+## ⭐ Case Studies (Most Relevant)
 
-- Gold Pass Subscription → [View Case Study](./gold-pass.md)
-- Live Events to Reduce Seasonal Churn → [View Case Study](./live-events.md)
-- Emlove — 0→1 MVP → [View Case Study](./emlove.md)
-- PM × QA Advantage → [View Case Study](./pm-qa-advantage.md)
+<div class="card">
+  <strong>Gold Pass Subscription</strong><br/>
+  Built and launched a subscription with daily engagement incentives to improve retention and monetization.<br/>
+  <em>Impact:</em> +10% 30-day retention, +9–11% ARPU, 8–12% adoption in 30 days.<br/>
+  👉 <a href="./gold-pass.md">Read the full case study</a>
+</div>
+
+<div class="card">
+  <strong>Live Events to Reduce Seasonal Churn</strong><br/>
+  Designed cricket-themed live events aligned with real-world moments to counter predictable churn windows.<br/>
+  <em>Impact:</em> 50% reduction in expected DAU drop, +7–9% short-term retention.<br/>
+  👉 <a href="./live-events.md">Read the full case study</a>
+</div>
+
+<div class="card">
+  <strong>Emlove — 0→1 E-Commerce MVP</strong><br/>
+  Shipped a live e-commerce MVP using free tooling under strict constraints (no paid tools, minimal resources).<br/>
+  👉 <a href="./emlove.md">Read the full case study</a>
+</div>
+
+<div class="card">
+  <strong>PM × QA Advantage</strong><br/>
+  How quality-first product thinking improves speed, confidence, and trust at scale.<br/>
+  <em>Impact:</em> 99.5% crash-free sessions; 35% fewer post-launch hotfixes.<br/>
+  👉 <a href="./pm-qa-advantage.md">Read the full case study</a>
+</div>
 
 ---
 
-🧠 Core Skills
-
-Product Management & Delivery
-Roadmapping · PRDs · Backlog Prioritization · Agile/Scrum · Sprint Planning · Feature Lifecycle · Stakeholder Alignment
-
-Growth, Monetization & Strategy
-Subscriptions · Live Ops · Pricing Strategy · GTM · TAM/SAM/SOM · KPI Definition · Competitive Analysis · Risk Assessment
-
-Data & Analytics
-A/B Testing · Funnels & Cohorts · Guardrail Metrics · SQL · Dashboards · Excel
-
-Tools
-JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Workspace
+## 📊 Metrics Snapshot (Quick Scan)
+- **Retention:** +10% improvement in 30-day retention  
+- **Monetization:** +9–11% ARPU improvement  
+- **Engagement:** 8–12% feature adoption in 30 days  
+- **Churn Mitigation:** 50% reduction in expected DAU drop during seasonal windows  
 
 ---
 
-🎓 Certifications
+## 🎓 Certifications
 
-📘 **Product & Agile**
+### 📘 Product & Agile
+- [Agile Project Management Certificate](./Agile%20project%20Management%20certificate.pdf)
 
-[Agile Project Management Certificate](./Agile%20project%20Management%20certificate.pdf)
+### 🤖 Generative AI & Technology
+- [Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
+- [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
-🤖 **Generative AI & Technology**
+### 📚 Additional Certifications (To Be Added)
+- [Certification Title](./file-name.pdf)
+- [Certification Title](./file-name.pdf)
 
+---
 
-[Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
-
-[Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
+## 🧠 Skills
+**Product:** Roadmapping · PRDs · Backlog Prioritization · Agile/Scrum · Stakeholder Alignment  
+**Analytics:** A/B Testing · Funnels/Cohorts · Guardrail Metrics · SQL · Dashboards  
+**Tools:** JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman
 
 ---
 
