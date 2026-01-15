@@ -1,3 +1,7 @@
+---
+layout: default
+title: PM × QA Advantage
+---
 # PM × QA Advantage — Product Case Study
 
 ## Overview
