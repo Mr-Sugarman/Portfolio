@@ -9,7 +9,7 @@
 
 Product Manager with 4+ years in **live-service consumer mobile games**, owning **monetization, retention, and live-ops features** at scale. I ship with strong analytics and experimentation (A/B testing, funnels/cohorts, KPI dashboards). :contentReference[oaicite:0]{index=0}
 
-<a class="btn" href="./gold-pass.md">Start here: Gold Pass Case Study</a>
+<a class="btn" href="./gold-pass.html">Start here: Gold Pass Case Study</a>
 <a class="btn" href="./live-events.md">Live Events Case Study</a>
 <a class="btn" href="./emlove.md">Emlove (0→1) Case Study</a>
 <a class="btn" href="./pm-qa-advantage.md">PM × QA Advantage</a>
