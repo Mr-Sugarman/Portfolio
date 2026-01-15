@@ -53,8 +53,6 @@ JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Works
 
 [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
-🧱 Scalable Section:
-This section is intentionally structured so new certifications can be added as simple bullet links without redesigning the portfolio.
 
 🎓 Education
 
