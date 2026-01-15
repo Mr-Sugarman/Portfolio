@@ -26,27 +26,27 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
   <strong>Gold Pass Subscription</strong><br/>
   Built and launched a subscription with daily engagement incentives to improve retention and monetization.<br/>
   <em>Impact:</em> +10% 30-day retention, +9–11% ARPU, 8–12% adoption in 30 days.<br/>
-  👉 <a href="./gold-pass.md">Read the full case study</a>
+  👉 <a href="./gold-pass.html">Read the full case study</a>
 </div>
 
 <div class="card">
   <strong>Live Events to Reduce Seasonal Churn</strong><br/>
   Designed cricket-themed live events aligned with real-world moments to counter predictable churn windows.<br/>
   <em>Impact:</em> 50% reduction in expected DAU drop, +7–9% short-term retention.<br/>
-  👉 <a href="./live-events.md">Read the full case study</a>
+  👉 <a href="./live-events.html">Read the full case study</a>
 </div>
 
 <div class="card">
   <strong>Emlove — 0→1 E-Commerce MVP</strong><br/>
   Shipped a live e-commerce MVP using free tooling under strict constraints (no paid tools, minimal resources).<br/>
-  👉 <a href="./emlove.md">Read the full case study</a>
+  👉 <a href="./emlove.html">Read the full case study</a>
 </div>
 
 <div class="card">
   <strong>PM × QA Advantage</strong><br/>
   How quality-first product thinking improves speed, confidence, and trust at scale.<br/>
   <em>Impact:</em> 99.5% crash-free sessions; 35% fewer post-launch hotfixes.<br/>
-  👉 <a href="./pm-qa-advantage.md">Read the full case study</a>
+  👉 <a href="./pm-qa-advantage.html">Read the full case study</a>
 </div>
 
 ---
