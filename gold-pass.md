@@ -73,4 +73,4 @@ A **time-bound subscription** with daily rewards and progression incentives woul
 
 ---
 
-🔙 [Back to Portfolio](./index.md)
+🔙 [Back to Portfolio](./README.md)
