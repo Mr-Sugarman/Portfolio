@@ -96,6 +96,7 @@ Defined MVP scope, prioritized features, and shipped under zero-budget constrain
 
 🤖 Generative AI & Technology
 [Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
+
 [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
 🧱 Scalable Section:
