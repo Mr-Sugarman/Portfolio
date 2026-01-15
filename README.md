@@ -14,7 +14,7 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 <a class="btn" href="./emlove.md">Emlove (0→1) Case Study</a>
 <a class="btn" href="./pm-qa-advantage.md">PM × QA Advantage</a>
 
-<a class="btn" href="www.linkedin.com/in/ankitmohanm">LinkedIn</a>
+<a class="btn" href="https://www.linkedin.com/in/ankitmohanm">LinkedIn</a>
 <a class="btn" href="mailto:ankitmohanmensi@gmail.com">Email</a>
 <a class="btn" href="./Ankit_Mohan_Mensi_Resume.pdf">Resume (PDF)</a>
 
