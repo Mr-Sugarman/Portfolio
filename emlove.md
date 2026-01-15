@@ -67,4 +67,4 @@ The business relied entirely on third-party platforms, resulting in:
 
 ---
 
-🔙 [Back to Portfolio](./index.md)
+🔙 [Back to Portfolio](./README.md)
