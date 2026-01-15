@@ -95,10 +95,8 @@ Defined MVP scope, prioritized features, and shipped under zero-budget constrain
 [Agile Project Management Certificate](./Agile%20project%20Management%20certificate.pdf)
 
 🤖 Generative AI & Technology
-
-Generative AI – Introduction & Applications
-
-Generative AI – Foundational Models Certification
+[Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
+[Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
 🧱 Scalable Section:
 This section is intentionally structured so new certifications can be added as simple bullet links without redesigning the portfolio.
