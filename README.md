@@ -37,6 +37,12 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 </div>
 
 <div class="card">
+  <strong>Ads Monetization (UX-Safe)</strong><br/>
+  Optimized rewarded ads and mediation strategy to increase ad ARPDAU and eCPM without hurting retention or payer conversion.<br/>
+  👉 <a href="./ads-monetization.html">Read the case study</a>
+</div>
+
+<div class="card">
   <strong>Emlove — 0→1 E-Commerce MVP</strong><br/>
   Shipped a live e-commerce MVP using free tooling under strict constraints (no paid tools, minimal resources).<br/>
   👉 <a href="./emlove.html">Read the full case study</a>
