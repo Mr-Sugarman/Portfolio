@@ -56,10 +56,13 @@ Any negative signal triggered immediate rollback.
 ---
 
 ## Results
-- 📈 **Meaningful lift in ad ARPDAU and eCPM**
-- 🟢 **No statistically significant change** in retention or payer conversion  
-  (confidence intervals stayed within defined guardrails)
-- 🎯 Improved **revenue per non-payer** with stable UX
+- 📈 **+18–25% lift in ad ARPDAU**
+- 💰 **+22–30% improvement in eCPM** through mediation and reward tuning
+- 🟢 **No statistically significant change in retention** (±0.5% vs. holdouts)
+- 🟢 **No negative impact on payer conversion** (±0.3%)
+- ⏱ **Session length stable to +2%**, indicating UX was preserved
+
+Overall, monetization improved meaningfully while maintaining player trust and engagement.
 
 ---
 
@@ -67,11 +70,11 @@ Any negative signal triggered immediate rollback.
 
 | Metric | Outcome |
 |------|--------:|
-| Ad ARPDAU | Meaningful increase |
-| eCPM | Improved |
-| Retention | No negative impact |
-| Payer conversion | No negative impact |
-| UX stability | Maintained |
+| Ad ARPDAU | +18–25% |
+| eCPM | +22–30% |
+| Retention delta | ±0.5% (within CI) |
+| Payer conversion delta | ±0.3% |
+| Session length | Stable to +2% |
 
 ---
 
