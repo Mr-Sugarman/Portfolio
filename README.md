@@ -36,42 +36,11 @@ Tools
 JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Workspace
 
 🧩 Product Case Studies
-### ⭐ Gold Pass Subscription (Flagship)
-Subscription feature designed to improve retention and monetization in a live-service mobile game.
 
-👉 [View Full Case Study](./gold-pass.md)
-
-⭐ Live Events to Reduce Seasonal Churn
-
-Problem: Predictable seasonal churn causing sharp DAU drops
-Solution: Cricket-themed live events tied to real-world moments
-Outcome:
-
-📉 50% reduction in expected DAU drop
-
-🔁 +7–9% short-term retention lift
-
-👉 Detailed case study coming soon
-
-⭐ PM × QA Advantage (My Differentiator)
-
-Defined release quality bars and rollout strategies for features serving 10M+ users
-
-Sustained 99.5% crash-free sessions
-
-Reduced post-launch hotfixes by 35%
-
-Why it matters: Quality is not a cost center — it’s product trust and speed.
-
-⭐ Emlove — 0→1 E-Commerce MVP
-
-Role: Product Lead
-
-Delivered a live e-commerce website using free tools
-
-Defined MVP scope, prioritized features, and shipped under zero-budget constraints
-
-👉 Case study coming soon
+- Gold Pass Subscription → [View Case Study](./gold-pass.md)
+- Live Events to Reduce Seasonal Churn → [View Case Study](./live-events.md)
+- Emlove — 0→1 MVP → [View Case Study](./emlove.md)
+- PM × QA Advantage → [View Case Study](./pm-qa-advantage.md)
 
 🎓 Certifications
 📘 Product & Agile
