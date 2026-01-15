@@ -1,3 +1,7 @@
+---
+layout: default
+title: Live Events to Reduce Seasonal Churn
+---
 # Live Events to Reduce Seasonal Churn — Product Case Study
 
 ## Overview
