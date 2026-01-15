@@ -7,7 +7,7 @@
   <span class="badge">-50% seasonal DAU drop</span>
 </div>
 
-Product Manager with 4+ years in **live-service consumer mobile games**, owning **monetization, retention, and live-ops features** at scale. I ship with strong analytics and experimentation (A/B testing, funnels/cohorts, KPI dashboards). :contentReference[oaicite:0]{index=0}
+Product Manager with 4+ years in **live-service consumer mobile games**, owning **monetization, retention, and live-ops features** at scale. I ship with strong analytics and experimentation (A/B testing, funnels/cohorts, KPI dashboards).
 
 <a class="btn" href="./gold-pass.html"> Gold Pass Case Study</a>
 <a class="btn" href="./live-events.html">Live Events Case Study</a>
