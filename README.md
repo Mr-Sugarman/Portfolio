@@ -7,6 +7,8 @@
 
 Product Manager with 4+ years of experience in live-service consumer mobile games, owning monetization, retention, and live-ops features for products used by 10M+ users. I have led subscription launches, seasonal engagement events, and KPI-driven optimizations, using A/B testing, funnel analysis, and player behavior insights to deliver measurable business impact.
 
+---
+
 📊 Impact Snapshot
 
 📱 Products serving 10M+ MAU
@@ -19,12 +21,16 @@ Product Manager with 4+ years of experience in live-service consumer mobile game
 
 🚀 8–12% feature adoption within 30 days
 
+---
+
 🧩 Product Case Studies
 
 - Gold Pass Subscription → [View Case Study](./gold-pass.md)
 - Live Events to Reduce Seasonal Churn → [View Case Study](./live-events.md)
 - Emlove — 0→1 MVP → [View Case Study](./emlove.md)
 - PM × QA Advantage → [View Case Study](./pm-qa-advantage.md)
+
+---
 
 🧠 Core Skills
 
@@ -40,6 +46,7 @@ A/B Testing · Funnels & Cohorts · Guardrail Metrics · SQL · Dashboards · Ex
 Tools
 JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Workspace
 
+---
 
 🎓 Certifications
 📘 **Product & Agile**
@@ -53,6 +60,7 @@ JIRA (JQL) · Confluence · Notion · Figma · GitHub · Postman · Google Works
 
 [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
 
+---
 
 🎓 Education
 
