@@ -82,6 +82,7 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 ### 🤖 Generative AI & Technology
 - [Generative AI – Introduction & Application](./Gen%20AI%20-%20Introduction%20and%20Application.pdf)
 - [Generative AI – Foundational Models Certification](./Gen%20AI%20foundational%20Models%20Certification.pdf)
+- [Generative AI - Prompt Engineering Basics](./GenAI%20Prompt%20Engineering%20Basics.pdf)
 
 ---
 
