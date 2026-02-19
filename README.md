@@ -16,7 +16,7 @@ Product Manager with 4+ years in **live-service consumer mobile games**, owning 
 
 <a class="btn" href="https://www.linkedin.com/in/ankitmohanm">LinkedIn</a>
 <a class="btn" href="mailto:ankitmohanmensi@gmail.com">Email</a>
-<a class="btn" href="./Ankit_Mohan_Mensi_Resume.pdf">Resume (PDF)</a>
+<a class="btn" href="./Ankit_Mohan_Mensi_PM.pdf">Resume (PDF)</a>
 
 ---
 
